@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">notes</string>
+    <string name="title_notifications">Settings</string>
+    <string name="Title">Music Title</string>
+    <string name="music">Music</string>
+    <string name="MusicAuthor">Music Author</string>
+    <string name="musicId">Music List</string>
+    <string name="musicacttion">Music List</string>
+
+
+</resources>
